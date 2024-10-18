@@ -1,2 +1,2 @@
 # Code
-i Love Coding
+i Love Coding and Design
